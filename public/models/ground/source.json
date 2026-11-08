@@ -1,0 +1,8 @@
+{
+  "model": "Xenova/segformer-b0-finetuned-ade-512-512",
+  "revision": "d3e5499fa8701ff0453ca940a8dfeae39b2f1504",
+  "url": "https://huggingface.co/Xenova/segformer-b0-finetuned-ade-512-512/resolve/d3e5499fa8701ff0453ca940a8dfeae39b2f1504/onnx/model_quantized.onnx",
+  "sha256": "9a98d6daf3d926869ab8cc4c2ed7374a2bc23b889bb7ca3b0915d15e3c4756bb",
+  "license": "NVIDIA Source Code License — noncommercial research/evaluation",
+  "licenseUrl": "https://github.com/NVlabs/SegFormer/blob/master/LICENSE"
+}
